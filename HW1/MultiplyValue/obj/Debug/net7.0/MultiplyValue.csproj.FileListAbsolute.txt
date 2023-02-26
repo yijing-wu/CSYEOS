@@ -1,0 +1,15 @@
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/MultiplyValue.csproj.AssemblyReference.cache
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/MultiplyValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/MultiplyValue.AssemblyInfoInputs.cache
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/MultiplyValue.AssemblyInfo.cs
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/MultiplyValue.csproj.CoreCompileInputs.cache
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/bin/Debug/net7.0/MultiplyValue
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/bin/Debug/net7.0/MultiplyValue.deps.json
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/bin/Debug/net7.0/MultiplyValue.runtimeconfig.json
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/bin/Debug/net7.0/MultiplyValue.dll
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/bin/Debug/net7.0/MultiplyValue.pdb
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/MultiplyValue.dll
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/refint/MultiplyValue.dll
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/MultiplyValue.pdb
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/MultiplyValue.genruntimeconfig.cache
+/Users/wyj/Desktop/CSYE6230OperatingSystems/Assignments/HW1/MultiplyValue/obj/Debug/net7.0/ref/MultiplyValue.dll
